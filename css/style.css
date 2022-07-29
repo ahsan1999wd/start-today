@@ -1,3 +1,6 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
 .carousel-caption{
   top: 30%;
   bottom: auto;
